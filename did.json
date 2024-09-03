@@ -10,7 +10,7 @@
       "id": "did:web:darshil1web.github.io:dkissuer#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:darshil1web.github.io:dkissuer",
-      "publicKeyBase58": "5gaxY9WfwXpxYvPgg7eUeLSM7JM9NdgLXgXGYqMej8ub"
+      "publicKeyBase58": "BaRyvv15LfEYRnNXczHAdDnBoQiP1LmQBsGUm9Q7thut"
     }
   ],
   "authentication": [
@@ -23,7 +23,7 @@
     {
       "id": "did:web:darshil1web.github.io:dkissuer#did-communication",
       "type": "did-communication",
-      "serviceEndpoint": "http://192.168.1.9:8000",
+      "serviceEndpoint": "http://192.168.1.9:9063",
       "recipientKeys": [
         "did:web:darshil1web.github.io:dkissuer#key-1"
       ],
